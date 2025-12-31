@@ -1,4 +1,4 @@
-# bi_portfolio
+# BI_portfolio
 
 ## BI Implementation for manufacturing company
 
