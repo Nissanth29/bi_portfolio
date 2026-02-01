@@ -1,4 +1,5 @@
-# Project Title: Steel Manufacturing 360: Enterprise Operational Intelligence Dashboard
+# Project Title: 
+## Steel Manufacturing 360: Enterprise Operational Intelligence Dashboard
 
 ## Project Overview 
 ###   **Developed a unified, multi-departmental Power BI solution for a steel manufacturing enterprise to eliminate data silos. This dashboard integrates six core business pillars into a single pane of glass, allowing leadership to track the lifecycle of a product from raw material purchase to HR overhead.**
